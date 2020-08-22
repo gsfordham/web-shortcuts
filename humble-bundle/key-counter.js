@@ -1,0 +1,1 @@
+javascript:(()=>{alert("Your Bundle contains: " + (document.getElementsByClassName("key-redeemer").length) + " keys!");})();

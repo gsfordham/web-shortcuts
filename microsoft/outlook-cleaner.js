@@ -1,0 +1,1 @@
+javascript:(()=>{document.querySelectorAll("a").forEach((x)=>{if(x.href == "https://windows.microsoft.com/outlook/ad-free-outlook") {console.log(x.parentNode.parentNode.parentNode.parentNode.remove());}});})();

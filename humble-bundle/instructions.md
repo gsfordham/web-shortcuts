@@ -1,0 +1,3 @@
+# SCRIPTS IN THIS DIRECTORY #
+1) ``bundle-counter.js`` -> As of 2020-Aug-22, this is used for the purchase/download page or when viewing NON-KEY purchases (books, other downloads).
+1) ``key-counter.js`` -> As of 2020-Aug-22, this is used to count KEYS (Steam, Unity, etc. redeemable keys). Known issue: Does NOT count keys _SEPARATE_ from the main section (unusual case, but I have ONE bundle myself, with this issue, so I make note of it).
